@@ -1,0 +1,5 @@
+x = input('请输入一个数字')
+print('你输入的数字是',x)
+y = input('please enter your name')
+print('your name is',y)
+print('1024*768=',1024*768)
